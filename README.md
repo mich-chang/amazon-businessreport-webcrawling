@@ -1,6 +1,6 @@
 # amazon-businessreport-webcrawling
 
-This file is used for auto login to amazon, and download ten days (today-2days ~ today-12days) business reports and the lastest all listing report. 
+This file is used for auto login to US amazon, and download ten days (today-2days ~ today-12days) business reports and the lastest all listing report. 
 After downloading business report, this program will also add data date and download date columns, rename the report and save the new business report in the folder which contains this program. 
 Since we don't reset all listing report, so it will still be at download folder.
 
